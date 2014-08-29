@@ -23,8 +23,6 @@ import levels.*;
 public class Engine4 extends Canvas implements Runnable{
 	
 	//Optimizacion:  Tue 26 Aug 2014, 17:18pm
-	
-	//http://zetcode.com/tutorials/javagamestutorial/movingsprites/
 		
 	/**
 	 * 
